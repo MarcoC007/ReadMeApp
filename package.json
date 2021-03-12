@@ -1,0 +1,23 @@
+{
+  "name": "readmeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoC007/ReadMeApp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoC007/ReadMeApp/issues"
+  },
+  "homepage": "https://github.com/MarcoC007/ReadMeApp#readme"
+}
